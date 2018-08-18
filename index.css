@@ -10,7 +10,7 @@ body{
  font-weight: bold;
 }
 
-div{
-  display
- 
-}A
+.completed-todo{
+ text-decoration: line-through
+
+}
